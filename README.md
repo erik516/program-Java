@@ -1,12 +1,9 @@
-# program-Java
-package program.java;
+    package program.java;
 
-import java.util.ArrayList;
-import java.util.List;
-import java.util.Scanner;
-
-public class ForWhileDo_whileFfor_each {
-
+    import java.util.ArrayList;
+    import java.util.List;
+    import java.util.Scanner;
+    
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         System.out.print("Masukkan batas bawah: ");
